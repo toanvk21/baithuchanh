@@ -1,0 +1,222 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#menu ul {
+    background-color: black;
+    list-style-type: none;
+    width: 66%;
+    height:40px;
+    font-size: 10px;
+}
+
+#menu>ul>li {
+    display: inline-block;
+    width: 88px;
+    position: relative;
+    line-height:39px;
+    text-align: center;
+}
+
+.submenu>li {
+    position: relative;
+}
+
+#menu ul li:hover {
+    background-color: blue;
+}
+.anh1{
+    margin-top: 20px;
+    width: 800px;
+}
+.VIEN1{
+    width: 170px;
+    height: 30px;
+    background-color: red;
+    margin-top: 20px;
+    text-align: center;
+    font-size: larger;
+}
+.kedong1{
+    width: 550px;
+    height: 4px;
+    background-color: red;
+    border: 1px solid white;
+}
+.the1{
+    margin-top: 20px;
+    border: 1px solid;
+    width: 257px;
+    float: left;
+}
+.anh3{
+    margin-top: 21px;
+    margin-left: 26px;
+    border: 1px solid;
+    width: 63px;
+    height: 63px;
+    float: left;
+}
+.anh4{
+    margin-top: 92px;
+    margin-left: 283px;
+    border: 1px solid;
+    width: 63px;
+    height: 63px;
+}
+.anh5{
+    margin-top:10px;
+    margin-left:283px;
+    border: 1px solid;
+    width: 63px;
+    height: 63px;
+}
+.anh6{
+    margin-top: -52px;
+    margin-left: 283px;
+    border: 1px solid;
+    width: 63px;
+    height: 63px;
+}
+.thongbao{
+    width: 210px;
+    height: 30px;
+    background-color: rgb(86, 146, 235);
+    margin-top: -350px; 
+    margin-left: 595px;
+    color: white;
+    text-align:center;
+}
+.vien2{
+    width: 170px;
+    height: 30px;
+    background-color: red;
+    margin-top: 40px;
+    text-align: center;
+    font-size: larger;
+}
+.dongke2{
+    width: 550px;
+    height: 4px;
+    background-color: rgb(250, 142, 1);
+    border: 1px solid white;
+}
+.content1{
+    color:darkgreen;
+    margin-top: 15px;
+    margin-left: 80px;
+    font-size: 20px;
+}
+.content2{
+    color:rgb(53, 157, 192);
+    margin-top: 15px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+.gif1{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.content3{
+    color:darkgreen;
+    margin-top: 15px;
+    margin-left: 43px;
+    font-size: 20px;
+}
+.content4{
+    color:rgb(53, 157, 192);
+    margin-top: 15px;
+    margin-left:98px;
+    font-size: 20px;
+}
+.d1{
+    width: 210px;
+    height: 30px;
+    background-color: rgb(86, 146, 235);
+    margin-top: 10px; 
+    margin-left: 595px;
+    color: white;
+    text-align:start;
+}
+.ul1{
+    font-size: 12px;margin-left: 200px;margin-top: 22px;line-height: 20px;
+}
+.tintuc{
+    width: 210px;
+    height: 27px;
+    background-color: rgb(228, 24, 24);
+    margin-top: -290px; 
+    margin-left: 595px;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+.tintuc1{
+    width: 210px;
+    height: 27px;
+    background-color: rgb(15, 101, 214);
+    margin-top: 5px; 
+    margin-left: 595px;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+.tintuc2{
+    width: 210px;
+    height: 27px;
+    background-color:orange;
+    margin-top: 5px; 
+    margin-left: 595px;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+.tintuc3{
+    width: 210px;
+    height: 27px;
+    background-color:rgb(29, 151, 29);
+    margin-top: 5px; 
+    margin-left: 595px;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+.tintuc4{
+    width: 210px;
+    height: 27px;
+    background-color:rgb(135, 48, 206);
+    margin-top: 5px; 
+    margin-left: 595px;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+.tintuc5{
+    width: 210px;
+    height: 25px;
+    background-color:rgb(21, 154, 216);
+    margin-top: 15px; 
+    margin-left: 595px;
+    color: white;
+    text-align:center;
+    font-size: 15px;
+}
+.ul2{
+    font-size: 12px;margin-left: 595px;margin-top: 8px;line-height: 20px;
+}
+.viencuoi{
+    border: 1px solid;
+    width: 800px;
+    height: 70px;
+    margin-top: 15px;
+    background-color: gray;
+}
